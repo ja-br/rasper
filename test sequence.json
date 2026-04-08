@@ -1,0 +1,134 @@
+{
+  "version": 1,
+  "bpm": 120,
+  "steps": [
+    {
+      "on": true,
+      "note": 69,
+      "wave": "sine",
+      "vel": 1.0,
+      "attack": 0.05,
+      "decay": 0.3
+    },
+    {
+      "on": false,
+      "note": 69,
+      "wave": "sine",
+      "vel": 1.0,
+      "attack": 0.05,
+      "decay": 0.3
+    },
+    {
+      "on": false,
+      "note": 69,
+      "wave": "sine",
+      "vel": 1.0,
+      "attack": 0.05,
+      "decay": 0.3
+    },
+    {
+      "on": true,
+      "note": 69,
+      "wave": "sine",
+      "vel": 1.0,
+      "attack": 0.05,
+      "decay": 0.3
+    },
+    {
+      "on": false,
+      "note": 69,
+      "wave": "sine",
+      "vel": 1.0,
+      "attack": 0.05,
+      "decay": 0.3
+    },
+    {
+      "on": false,
+      "note": 69,
+      "wave": "sine",
+      "vel": 1.0,
+      "attack": 0.05,
+      "decay": 0.3
+    },
+    {
+      "on": true,
+      "note": 69,
+      "wave": "sine",
+      "vel": 1.0,
+      "attack": 0.05,
+      "decay": 0.3
+    },
+    {
+      "on": false,
+      "note": 69,
+      "wave": "sine",
+      "vel": 1.0,
+      "attack": 0.05,
+      "decay": 0.3
+    },
+    {
+      "on": false,
+      "note": 69,
+      "wave": "sine",
+      "vel": 1.0,
+      "attack": 0.05,
+      "decay": 0.3
+    },
+    {
+      "on": true,
+      "note": 69,
+      "wave": "sine",
+      "vel": 1.0,
+      "attack": 0.05,
+      "decay": 0.3
+    },
+    {
+      "on": false,
+      "note": 69,
+      "wave": "sine",
+      "vel": 1.0,
+      "attack": 0.05,
+      "decay": 0.3
+    },
+    {
+      "on": false,
+      "note": 69,
+      "wave": "sine",
+      "vel": 1.0,
+      "attack": 0.05,
+      "decay": 0.3
+    },
+    {
+      "on": true,
+      "note": 69,
+      "wave": "sine",
+      "vel": 1.0,
+      "attack": 0.05,
+      "decay": 0.3
+    },
+    {
+      "on": false,
+      "note": 69,
+      "wave": "sine",
+      "vel": 1.0,
+      "attack": 0.05,
+      "decay": 0.3
+    },
+    {
+      "on": false,
+      "note": 69,
+      "wave": "sine",
+      "vel": 1.0,
+      "attack": 0.05,
+      "decay": 0.3
+    },
+    {
+      "on": true,
+      "note": 69,
+      "wave": "sine",
+      "vel": 1.0,
+      "attack": 0.05,
+      "decay": 0.3
+    }
+  ]
+}
